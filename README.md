@@ -1,7 +1,5 @@
 # 📝 Exercícios — Introdução ao Node.js
 
-# 📝 Exercícios — Introdução ao Node.js
-
 > 🔒 *Rascunho — em revisão pelo professor antes de publicar aos alunos.*
 > 
 
