@@ -1,3 +1,0 @@
-
-Meu primeiro arquivo criado com Node.js.
-Data: 27/05/2026, 19:14:04
